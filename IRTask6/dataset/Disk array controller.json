@@ -1,0 +1,10 @@
+[
+	{
+		"id": "Disk array controller",
+		"content": "A disk array controller is a device that manages the physical disk drives and presents them to the computer as logical units. It almost always implements hardware RAID, thus it is sometimes referred to as RAID controller. It also often provides additional disk cache.
+Disk array controller is often improperly shortened to disk controller. The two should not be confused as they provide very different functionality.
+
+",
+		"image": "Disk array controller.jpg"
+	}
+]

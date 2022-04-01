@@ -1,0 +1,11 @@
+[
+	{
+		"id": "Multiuser DOS",
+		"content": "Multiuser DOS is a real-time multi-user multi-tasking operating system for IBM PC-compatible microcomputers.
+An evolution of the older Concurrent CP/M-86, Concurrent DOS and Concurrent DOS 386 operating systems, it was originally developed by Digital Research and acquired and further developed by Novell in 1991. Its ancestry lies in the earlier Digital Research 8-bit operating systems CP/M and MP/M, and the 16-bit single-tasking CP/M-86 which evolved from CP/M.
+When Novell abandoned Multiuser DOS in 1992, the three Master Value Added Resellers (VARs) DataPac Australasia, Concurrent Controls and Intelligent Micro Software were allowed to take over and continued independent development into Datapac Multiuser DOS and System Manager, CCI Multiuser DOS, and IMS Multiuser DOS and REAL/32.The FlexOS line, which evolved from Concurrent DOS 286 and Concurrent DOS 68K, was sold off to Integrated Systems, Inc. (ISI) in July 1994.
+
+",
+		"image": "Multiuser DOS.jpg"
+	}
+]

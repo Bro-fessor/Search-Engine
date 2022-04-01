@@ -1,0 +1,10 @@
+[
+	{
+		"id": "RANCID (software)",
+		"content": "RANCID (Really Awesome New Cisco confIg Differ) is a network management application released under a BSD-style license.
+RANCID uses Expect to connect to the routers, send some commands and put the results in files.
+
+",
+		"image": "RANCID (software).jpg"
+	}
+]

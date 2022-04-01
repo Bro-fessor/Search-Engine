@@ -1,0 +1,9 @@
+[
+	{
+		"id": "RMI-IIOP",
+		"content": "RMI-IIOP (read as \"RMI over IIOP\") denotes the Java Remote Method Invocation (RMI) interface over the Internet Inter-Orb Protocol (IIOP), which delivers Common Object Request Broker Architecture (CORBA) distributed computing capabilities to the Java platform. It was initially based on two specifications: the Java Language Mapping to OMG IDL, and CORBA/IIOP 2.3.1.With features inherited from CORBA, software components that work together can be written in multiple computer languages and run on multiple computers. In other words, it supports multiple platforms and can make remote procedure calls to execute, subroutines on another computer as defined by RMI.
+
+",
+		"image": "RMI-IIOP.jpg"
+	}
+]

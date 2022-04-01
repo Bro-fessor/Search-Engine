@@ -1,0 +1,7 @@
+[
+	{
+		"id": "RGBE image format",
+		"content": "RGBE or Radiance HDR is an image format invented by Gregory Ward Larson for the Radiance rendering system. It stores pixels as one byte each for RGB (red, green, and blue) values with a one byte shared exponent. Thus it stores four bytes per pixel.",
+		"image": "RGBE image format.jpg"
+	}
+]

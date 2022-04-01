@@ -1,0 +1,7 @@
+[
+	{
+		"id": "Apple Video",
+		"content": "Apple Video is a lossy video compression and decompression algorithm (codec) developed by Apple Inc. and first released as part of QuickTime 1.0 in 1991. The codec is also known as QuickTime Video, by its FourCC RPZA and the name Road Pizza. (The codename \"Road Pizza\" is a reference to the idea that \"when you run over an animal, you're basically compressing it on the freeway\".) When used in the AVI container, the FourCC AZPR is also used.The bit-stream format of Apple Video has been reverse-engineered and a decoder has been implemented in the projects XAnim and libavcodec.",
+		"image": "Apple Video.jpg"
+	}
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"id": "README",
+		"content": "A README file contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called Read Me, READ.ME, README.TXT, README.md (for a text file using markdown markup), README.1ST  –  or simply README.The file's name is generally written in uppercase letters. On Unix-like systems in particular this makes it easily noticed – both because lowercase filenames are more common, and because traditionally the ls command sorts and displays files in ASCII-code order, so that uppercase filenames appear first.
+
+",
+		"image": "README.jpg"
+	}
+]

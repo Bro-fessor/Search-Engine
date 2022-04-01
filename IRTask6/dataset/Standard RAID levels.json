@@ -1,0 +1,10 @@
+[
+	{
+		"id": "Standard RAID levels",
+		"content": "In computer storage, the standard RAID levels comprise a basic set of RAID (\"Redundant Array of Independent Disks\" or \"Redundant Array of Inexpensive Disks\") configurations that employ the techniques of striping, mirroring, or parity to create large reliable data stores from multiple general-purpose computer hard disk drives (HDDs). The most common types are RAID 0 (striping), RAID 1 (mirroring) and its variants, RAID 5 (distributed parity), and RAID 6 (dual parity). RAID levels and their associated data formats are standardized by the Storage Networking Industry Association (SNIA) in the Common RAID Disk Drive Format (DDF) standard. The numerical values only serve as identifiers and do not signify performance, reliability, generation, or any other metric.
+While most RAID levels can provide good protection against and recovery from hardware defects or defective sectors/read errors (hard errors), they do not provide any protection against data loss due to catastrophic failures (fire, water) or soft errors such as user error, software malfunction, or malware infection. For valuable data, RAID is only one building block of a larger data loss prevention and recovery scheme – it cannot replace a backup plan.
+
+",
+		"image": "Standard RAID levels.jpg"
+	}
+]

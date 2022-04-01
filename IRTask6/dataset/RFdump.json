@@ -1,0 +1,39 @@
+[
+	{
+		"id": "RFdump",
+		"content": "RFDump is a software created by Lukas Grunwald and Christian Bottger for the purpose of security auditing of RFID tags. It is periodically updated to emerging RFID standards such as e-passport and Mifare encryption currently found on many pay as you go systems.
+RFDump is a back-end GPL tool to directly inter-operate with any RFID reader to make the contents stored on RFID tags accessible. The tools reads an RFID tag's meta information: tag ID, tag type, manufacturer etc. The user data of a tag can be displayed and modified using either a hex or an ASCII editor. In addition, the integrated cookie feature demonstrates how simple it is for a company to abuse RFID technology, and how it can be used to spy on unwitting consumers. RFDump works with the ACG Multi-Tag Reader or similar card reader hardware.
+RFDump features (Gtk application):
+
+Runs on Linux, Windows
+Supports ACGs PCMCIA/CF Multi-Tag Readers
+Decodes the tag type, tag ID and manufacturer
+Displays tag memory in hex and ASCII encoding
+Allows to write memory using hex or ASCII editor
+Full ISO/IEC 14443 type A/B support
+Support for Mifare sector keys
+Cookie feature using arbitrary cookie ID and automatically incrementing counter
+Brute-force cracking of access control cards (sector keys)
+Audit of encrypted RFID tags check for default shipping keys
+Save and restore of Mifare cards including sector keys
+Multi baudrate reader support; RFDump can set baud rate
+Scan option
+Configuration menusSupported Tag Types:
+
+ISO/IEC 15693: Tag-it ISO, My-d, I-Code SLI, LRI512, TempSense
+ISO/IEC 14443 type A: Mifare Standard(1,2), Mifare UltraLight(1,2)
+ISO/IEC 14443 type B: SR176(1,2)
+Tag-it
+I-Code
+EM4002
+EM4005
+EM4050
+HITAG1
+HITAG2
+Q5
+TIRIS
+
+",
+		"image": "RFdump.jpg"
+	}
+]

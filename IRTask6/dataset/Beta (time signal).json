@@ -1,0 +1,10 @@
+[
+	{
+		"id": "Beta (time signal)",
+		"content": "Beta is a time signal service in the VLF range in Russia, operated by the Russian Navy. It is controlled by All-Russian Scientific Research Institute for Physical-Engineering and Radiotechnical Metrology. There are 6 transmitter stations, which take turns transmitting time signals and other communications.
+Each transmitter has 1 or 2 scheduled sessions per day lasting 31–41 minutes, depending on transmitter, total 8 sessions in 24 hours. Beginning on the hour is 15–20 minutes of 25.0 kHz, including morse code station identification and time code.  This is followed by 3- or 4-minute intervals of 25.1, 25.5, 23.0 and 20.5 kHz of unmodulated carrier precisely phase-locked to UTC(SU) time scale.  No time code is sent during the last quarter of an hour.
+
+",
+		"image": "Beta (time signal).jpg"
+	}
+]

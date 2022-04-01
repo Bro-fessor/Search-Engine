@@ -1,0 +1,7 @@
+[
+	{
+		"id": "Intel Socket G3",
+		"content": "Socket G3, also known as rPGA 946B/947 or FCPGA 946, is a socket for Intel microprocessors that supports Haswell-based mobile CPUs.  Compatible SKUs have an 'M' suffix in the model number.Socket G3 is designed as a replacement for the Socket G2, which is also known as rPGA 988B. Socket G3 has holes to make contact with 946 or 947 pins of the processor's pin grid array (PGA).Lynx Point is the Platform Controller Hub (PCH) associated with Socket G3.Socket rPGA 947 has one extra pin hole, other than that it is identical to socket G3. It is the last pin grid array socket for Intel's mobile processors - all mobile processors in microarchitectures succeeding Haswell are exclusively available in BGA packaging. Advanced Micro Devices also adopted same practice, starting with Steamroller microarchitecture.",
+		"image": "Intel Socket G3.jpg"
+	}
+]

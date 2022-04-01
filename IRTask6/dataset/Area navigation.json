@@ -1,0 +1,8 @@
+[
+	{
+		"id": "Area navigation",
+		"content": "Area navigation (RNAV, usually pronounced as  \"ar-nav\") is a method of instrument flight rules (IFR) navigation that allows an aircraft to choose any course within a network of navigation beacons, rather than navigate directly to and from the beacons. This can conserve flight distance, reduce congestion, and allow flights into airports without beacons. Area navigation used to be called \"random navigation\", hence the acronym RNAV.RNAV can be defined as a method of navigation that permits aircraft operation on any desired course within the coverage of station-referenced navigation signals or within the limits of a self-contained system capability, or a combination of these.
+In the United States, RNAV was developed in the 1960s, and the first such routes were published in the 1970s. In January 1983, the Federal Aviation Administration revoked all RNAV routes in the contiguous United States due to findings that aircraft were using inertial navigation systems rather than the ground-based beacons, and so cost–benefit analysis was not in favour of maintaining the RNAV routes system. RNAV was reintroduced after the large-scale introduction of satellite navigation.",
+		"image": "Area navigation.jpg"
+	}
+]

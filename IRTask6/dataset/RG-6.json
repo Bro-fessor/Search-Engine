@@ -1,0 +1,9 @@
+[
+	{
+		"id": "RG-6",
+		"content": "RG-6/U is a common type of coaxial cable used in a wide variety of residential and commercial applications.  An RG-6/U coaxial cable has a characteristic impedance of 75 ohms. The term, RG-6, is generic and is applied to a wide variety of cable designs, which differ from one another in shielding characteristics, center conductor composition, dielectric type and jacket type.  RG was originally a unit indicator  for bulk radio frequency (RF) cable in the U.S. military's Joint Electronics Type Designation System. The suffix /U means for general utility use. The number was assigned sequentially. The RG unit indicator is no longer part of the JETDS system (MIL-STD-196E) and cable sold today under the RG-6 label is unlikely to meet military specifications. In practice, the term RG-6 is generally used to refer to coaxial cables with an 18 AWG (1.024 mm) center conductor and 75 ohm characteristic impedance.
+
+",
+		"image": "RG-6.jpg"
+	}
+]

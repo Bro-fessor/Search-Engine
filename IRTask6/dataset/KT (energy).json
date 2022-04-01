@@ -1,0 +1,9 @@
+[
+	{
+		"id": "KT (energy)",
+		"content": "kT (also written as kBT) is the product of the Boltzmann constant, k (or kB), and the temperature, T. This product is used in physics as a scale factor for energy values in molecular-scale systems (sometimes it is used as a unit of energy), as the rates and frequencies of many processes and phenomena depend not on their energy alone, but on the ratio of that energy and kT, that is, on E / kT (see Arrhenius equation, Boltzmann factor). For a system in equilibrium in canonical ensemble, the probability of the system being in state with energy E is proportional to e−ΔE / kT.
+More fundamentally, kT is the amount of heat required to increase the thermodynamic entropy of a system, in natural units, by one nat.  E / kT therefore represents an amount of entropy per molecule, measured in natural units.
+In macroscopic scale systems, with large numbers of molecules, RT value is commonly used; its SI units are joules per mole (J/mol): (RT = kT ⋅ NA).",
+		"image": "KT (energy).jpg"
+	}
+]

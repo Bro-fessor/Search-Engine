@@ -1,0 +1,10 @@
+[
+	{
+		"id": "G-code",
+		"content": "G-code (also RS-274), which has many variants, is the common name for the most widely used computer numerical control (CNC) programming language. It is used mainly in computer-aided manufacturing to control automated machine tools.
+G-code is a language in which people tell computerized machine tools how to make something. The \"how\" is defined by G-code instructions provided to a machine controller (industrial computer) that tells the motors where to move, how fast to move, and what path to follow. The two most common situations are that, within a machine tool such as a lathe or mill, a cutting tool is moved according to these instructions through a toolpath cutting away material to leave only the finished workpiece and/or, an unfinished workpiece is precisely positioned in any of up to nine axes around the three dimensions relative to a toolpath and, either or both can move relative to each other. The same concept also extends to noncutting tools such as forming or burnishing tools, photoplotting, additive methods such as 3D printing, and measuring instruments.
+
+",
+		"image": "G-code.jpg"
+	}
+]

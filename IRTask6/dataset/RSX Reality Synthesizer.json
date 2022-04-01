@@ -1,0 +1,8 @@
+[
+	{
+		"id": "RSX Reality Synthesizer",
+		"content": "The RSX 'Reality Synthesizer' is a proprietary graphics processing unit (GPU) codeveloped by Nvidia and Sony for the PlayStation 3 game console. It is a GPU based on the Nvidia 7800GTX graphics processor and, according to Nvidia, is a G70/G71 (previously known as NV47) hybrid architecture with some modifications. The RSX has separate vertex and pixel shader pipelines. The GPU makes use of 256 MB GDDR3 RAM clocked at 650 MHz with an effective transmission rate of 1.3 GHz and up to 224 MB of the 3.2 GHz XDR main memory via the CPU (480 MB max).
+Although it carries the majority of the graphics processing, the Cell Broadband Engine, the console's CPU, is also used complementarily for some graphics-related computational loads of the console.",
+		"image": "RSX Reality Synthesizer.jpg"
+	}
+]

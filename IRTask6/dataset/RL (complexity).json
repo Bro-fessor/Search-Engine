@@ -1,0 +1,7 @@
+[
+	{
+		"id": "RL (complexity)",
+		"content": "Randomized Logarithmic-space (RL), sometimes called RLP (Randomized Logarithmic-space Polynomial-time), is the complexity class of computational complexity theory problems solvable in logarithmic space and polynomial time with probabilistic Turing machines with one-sided error. It is named in analogy with RP, which is similar but has no logarithmic space restriction.",
+		"image": "RL (complexity).jpg"
+	}
+]

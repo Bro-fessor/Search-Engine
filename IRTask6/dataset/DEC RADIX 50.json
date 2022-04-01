@@ -1,0 +1,8 @@
+[
+	{
+		"id": "DEC RADIX 50",
+		"content": "RADIX 50 or RAD50 (also referred to as RADIX50, RADIX-50 or RAD-50), is an uppercase-only character encoding created by Digital Equipment Corporation (DEC) for use on their DECsystem, PDP, and VAX computers.
+RADIX 50's 40-character repertoire (050 in octal) can encode six characters plus four additional bits into one 36-bit machine word (PDP-6, PDP-10/DECsystem-10, DECSYSTEM-20), three characters plus two additional bits into one 18-bit word (PDP-9, PDP-15), or three characters into one 16-bit word (PDP-11, VAX).The actual encoding differs between the 36-bit and 16-bit systems.",
+		"image": "DEC RADIX 50.jpg"
+	}
+]

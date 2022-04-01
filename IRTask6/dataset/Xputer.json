@@ -1,0 +1,8 @@
+[
+	{
+		"id": "Xputer",
+		"content": "The Xputer is a design for a reconfigurable computer, proposed by computer scientist Reiner Hartenstein. Hartenstein uses various terms to describe the various innovations in the design, including config-ware, flow-ware, morph-ware, and \"anti-machine\".
+The Xputer represents a move away from the traditional Von Neumann computer architecture, to a coarse-grained \"soft Arithmetic logic unit (ALU)\" architecture. Parallelism is achieved by configurable elements known as reconfigurable datapath arrays (rDPA), organized in a two-dimensional array of ALU's similar to the KressArray.",
+		"image": "Xputer.jpg"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"id": "23S rRNA (uracil1939-C5)-methyltransferase",
+		"content": "23S rRNA (uracil1939-C5)-methyltransferase (EC 2.1.1.190, RumA, RNA uridine methyltransferase A, YgcA) is an enzyme with systematic name S-adenosyl-L-methionine:23S rRNA (uracil1939-C5)-methyltransferase. This enzyme catalyses the following chemical reaction
+
+S-adenosyl-L-methionine + uracil1939 in 23S rRNA 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   S-adenosyl-L-homocysteine + 5-methyluracil1939 in 23S rRNAThe enzyme specifically methylates uracil1939 at C5 in 23S rRNA.",
+		"image": "23S rRNA (uracil1939-C5)-methyltransferase.jpg"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"id": "RDFa",
+		"content": "RDFa (or Resource Description Framework in Attributes) is  a W3C Recommendation that adds a set of attribute-level extensions to HTML, XHTML and various XML-based document types for embedding rich metadata within Web documents. The RDF data-model mapping enables its use for embedding RDF subject-predicate-object expressions within XHTML documents. It also enables the extraction of RDF model triples by compliant user agents.
+The RDFa community runs a wiki website to host tools, examples, and tutorials.",
+		"image": "RDFa.jpg"
+	}
+]

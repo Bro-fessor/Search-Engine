@@ -1,0 +1,7 @@
+[
+	{
+		"id": "R5000",
+		"content": "The R5000 is a microprocessor that implements the MIPS IV instruction set architecture (ISA) developed by Quantum Effect Design (QED). The project was funded by MIPS Technologies, Inc (MTI), also the licensor. MTI then licensed the design to Integrated Device Technology (IDT), NEC, NKK, and Toshiba. The R5000 succeeded the QED R4600 and R4700 as their flagship high-end embedded microprocessor. IDT marketed its version of the R5000 as the 79RV5000, NEC as VR5000, NKK as the NR5000, and Toshiba as the TX5000. The R5000 was sold to PMC-Sierra when the company acquired QED. Derivatives of the R5000 are still in production today for embedded systems.",
+		"image": "R5000.jpg"
+	}
+]

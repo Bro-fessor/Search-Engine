@@ -1,0 +1,10 @@
+[
+	{
+		"id": "Random-access stored-program machine",
+		"content": "In theoretical computer science the random-access stored-program (RASP) machine model is an abstract machine used for the purposes of algorithm development and algorithm complexity theory.
+The RASP is a random-access machine (RAM) model that, unlike the RAM, has its program in its \"registers\" together with its input. The registers are unbounded (infinite in capacity); whether the number of registers is finite is model-specific. Thus the RASP is to the RAM as the Universal Turing machine is to the Turing machine. The RASP is an example of the von Neumann architecture whereas the RAM is an example of the Harvard architecture.
+The RASP is closest of all the abstract models to the common notion of computer. But unlike actual computers the RASP model usually has a very simple instruction set, greatly reduced from those of CISC and even RISC processors to the simplest arithmetic, register-to-register \"moves\", and \"test/jump\" instructions. Some models have a few extra registers such as an accumulator.
+Together with the register machine, the RAM, and the pointer machine the RASP makes up the four common sequential machine models, called this to distinguish them from the \"parallel\" models (e.g. parallel random access machine) [cf. van Emde Boas (1990)].",
+		"image": "Random-access stored-program machine.jpg"
+	}
+]

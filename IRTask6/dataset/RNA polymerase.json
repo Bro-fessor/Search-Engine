@@ -1,0 +1,20 @@
+[
+	{
+		"id": "RNA polymerase",
+		"content": "In molecular biology, RNA polymerase (abbreviated  RNAP or  RNApol, and officially DNA-directed RNA polymerase), is an enzyme that synthesizes RNA from a DNA template.
+Using the enzyme helicase, RNAP locally opens the double-stranded DNA so that one strand of the exposed nucleotides can be used as a template for the synthesis of RNA, a process called transcription. A transcription factor and its associated transcription mediator complex must be attached to a DNA binding site called a promoter region before RNAP can initiate the DNA unwinding at that position. RNAP not only initiates RNA transcription, it also guides the nucleotides into position, facilitates attachment and elongation, has intrinsic proofreading and replacement capabilities, and termination recognition capability. In eukaryotes, RNAP can build chains as long as 2.4 million nucleotides.
+RNAP produces RNA that, functionally, is either for protein coding, i.e. messenger RNA (mRNA); or non-coding (so-called \"RNA genes\"). At least four functional types of RNA genes exist: 
+
+transfer RNA (tRNA) — transfers specific amino acids to growing polypeptide chains at the ribosomal site of protein synthesis during translation;
+ribosomal RNA (rRNA) — incorporates into ribosomes;
+micro RNA (miRNA) — regulates gene activity; and,
+catalytic RNA (ribozyme) — functions as an enzymatically active RNA molecule.RNA polymerase is essential to life, and is found in all living organisms and many viruses. Depending on the organism, a RNA polymerase can be a protein complex (multi-subunit RNAP) or only consist of one subunit (single-subunit RNAP, ssRNAP), each representing an independent lineage. The former is found in bacteria, archaea, and eukaryotes alike, sharing a similar core structure and mechanism. The latter is found in phages as well as eukaryotic chloroplasts and mitochondria, and is related to modern DNA polymerases. Eukaryotic and archaeal RNAPs have more subunits than bacterial ones do, and are controlled differently.
+Bacteria and archaea only have one RNA polymerase. Eukaryotes have multiple types of nuclear RNAP, each responsible for synthesis of a distinct subset of RNA: 
+
+RNA polymerase I synthesizes a pre-rRNA 45S (35S in yeast), which matures and will form the major RNA sections of the ribosome.
+RNA polymerase II synthesizes precursors of mRNAs and most sRNA and microRNAs.
+RNA polymerase III synthesizes tRNAs, rRNA 5S and other small RNAs found in the nucleus and cytosol.
+RNA polymerase IV and V found in plants are less understood; they make siRNA. In addition to the ssRNAPs, chloroplasts also encode and use a bacteria-like RNAP.",
+		"image": "RNA polymerase.jpg"
+	}
+]

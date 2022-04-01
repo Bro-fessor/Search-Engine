@@ -1,0 +1,7 @@
+[
+	{
+		"id": "Radeon RX 500 series",
+		"content": "The Radeon RX 500 series is a series of graphics cards made by AMD. These cards are based on the fourth iteration of the Graphics Core Next architecture, featuring GPUs based on Polaris 30, Polaris 20, Polaris 11, and Polaris 12 chips. Thus the RX 500 series uses the same microarchitecture and instruction set as its predecessor, while making use of improvements in the manufacturing process to enable higher clock rates.Third-generation GCN chips are produced on a 28 nm CMOS process. Polaris (fourth-generation GCN) chips (except for Polaris 30) are produced on a 14 nm FinFET process, developed by Samsung Electronics and licensed to GlobalFoundries. Polaris 30 chips are produced on a 12 nm FinFET process, developed by Samsung and GlobalFoundries.",
+		"image": "Radeon RX 500 series.jpg"
+	}
+]

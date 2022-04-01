@@ -1,0 +1,12 @@
+[
+	{
+		"id": "Medical record",
+		"content": "The terms medical record, health record, and medical chart are used somewhat interchangeably to describe the systematic documentation of a single patient's medical history and care across time within one particular health care provider's jurisdiction. A medical record includes a variety of types of \"notes\" entered over time by healthcare professionals, recording observations and administration of drugs and therapies, orders for the administration of drugs and therapies, test results, x-rays, reports, etc. The maintenance of complete and accurate medical records is a requirement of health care providers and is generally enforced as a licensing or certification prerequisite.
+The terms are used for the written (paper notes), physical (image films) and digital records that exist for each individual patient and for the body of information found therein.
+Medical records have traditionally been compiled and maintained by health care providers, but advances in online data storage have led to the development of personal health records (PHR) that are maintained by patients themselves, often on third-party websites. This concept is supported by US national health administration entities and by AHIMA, the American Health Information Management Association.
+ In 2009, Congress authorized and funded legislation known as the Health Information Technology for Economic and Clinical Health Act  to stimulate the conversion of paper medical records into electronic charts. While many hospitals and doctor's offices have since done this successfully, electronic health vendors' proprietary systems haven't always been compatible with one another, and an untold number of patients undergo duplicate procedures — or fail to get them at all — because key pieces of their medical history are missing.Because many consider the information in medical records to be sensitive private information covered by expectations of privacy, many ethical and legal issues are implicated in their maintenance, such as third-party access and appropriate storage and disposal. Although the storage equipment for medical records generally is the property of the health care provider, the actual record is considered in most jurisdictions to be the property of the patient, who may obtain copies upon request.
+
+",
+		"image": "Medical record.jpg"
+	}
+]

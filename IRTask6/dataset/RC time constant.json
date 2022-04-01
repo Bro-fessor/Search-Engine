@@ -1,0 +1,137 @@
+[
+	{
+		"id": "RC time constant",
+		"content": "The RC time constant, also called tau, the time constant (in seconds) of an RC circuit, is equal to the product of the circuit resistance (in ohms) and the circuit capacitance (in farads), i.e. 
+
+  
+    
+      
+        τ
+        =
+        R
+        C
+      
+    
+    {\displaystyle \tau =RC}
+   [seconds]It is the time required to charge the capacitor, through the resistor, from an initial charge voltage of zero to approximately 63.2% of the value of an applied DC voltage, or to discharge the capacitor through the same resistor to approximately 36.8% of its initial charge voltage. (These values are derived from the mathematical constant e: 
+  
+    
+      
+        63.2
+        %
+        =
+        1
+        −
+        
+          e
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle 63.2\%=1-e^{-1}}
+   and 
+  
+    
+      
+        36.8
+        %
+        =
+        
+          e
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle 36.8\%=e^{-1}}
+  .) The following formulae use it, assuming a constant voltage applied across the capacitor and resistor in series, to determine the voltage across the capacitor against time:
+
+Charging toward applied voltage (initially zero voltage across capacitor, constant V0 across resistor and capacitor together) 
+  
+    
+      
+        
+          V
+          
+            0
+          
+        
+        :
+        
+        V
+        (
+        t
+        )
+        =
+        
+          V
+          
+            0
+          
+        
+        (
+        1
+        −
+        
+          e
+          
+            −
+            t
+            
+              /
+            
+            τ
+          
+        
+        )
+      
+    
+    {\displaystyle V_{0}:\quad V(t)=V_{0}(1-e^{-t/\tau })}
+  
+Discharging toward zero from initial voltage (initially V0 across capacitor, constant zero voltage across resistor and capacitor together) 
+  
+    
+      
+        
+          V
+          
+            0
+          
+        
+        :
+        
+        V
+        (
+        t
+        )
+        =
+        
+          V
+          
+            0
+          
+        
+        (
+        
+          e
+          
+            −
+            t
+            
+              /
+            
+            τ
+          
+        
+        )
+      
+    
+    {\displaystyle V_{0}:\quad V(t)=V_{0}(e^{-t/\tau })}",
+		"image": "RC time constant.jpg"
+	}
+]

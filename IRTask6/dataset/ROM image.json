@@ -1,0 +1,7 @@
+[
+	{
+		"id": "ROM image",
+		"content": "A ROM image, or ROM file, is a computer file which contains a copy of the data from a read-only memory chip, often from a video game cartridge, or used to contain a computer's firmware, or from an arcade game's main board. The term is frequently used in the context of emulation, whereby older games or firmware are copied to ROM files on modern computers and can, using a piece of software known as an emulator, be run on a different device than which they were designed for. ROM burners are used to copy ROM images to hardware, such as ROM cartridges, or ROM chips, for debugging and QA testing.",
+		"image": "ROM image.jpg"
+	}
+]

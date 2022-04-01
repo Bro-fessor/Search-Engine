@@ -1,0 +1,262 @@
+[
+	{
+		"id": "Reynolds-averaged Navier–Stokes equations",
+		"content": "The Reynolds-averaged Navier–Stokes equations  (or RANS equations) are time-averaged
+equations of motion for fluid flow. The idea behind the equations is Reynolds decomposition, whereby an instantaneous quantity is decomposed into its time-averaged and fluctuating quantities, an idea first proposed by Osborne Reynolds.  The RANS equations are primarily used to describe turbulent flows. These equations can be used with approximations based on knowledge of the properties of flow turbulence to give approximate time-averaged solutions to the Navier–Stokes equations.
+For a stationary flow of an incompressible Newtonian fluid, these equations can be written in Einstein notation in Cartesian coordinates as:
+
+  
+    
+      
+        ρ
+        
+          
+            
+              
+                u
+                ¯
+              
+            
+          
+          
+            j
+          
+        
+        
+          
+            
+              ∂
+              
+                
+                  
+                    
+                      u
+                      ¯
+                    
+                  
+                
+                
+                  i
+                
+              
+            
+            
+              ∂
+              
+                x
+                
+                  j
+                
+              
+            
+          
+        
+        =
+        ρ
+        
+          
+            
+              
+                f
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        +
+        
+          
+            ∂
+            
+              ∂
+              
+                x
+                
+                  j
+                
+              
+            
+          
+        
+        
+          [
+          
+            −
+            
+              
+                
+                  p
+                  ¯
+                
+              
+            
+            
+              δ
+              
+                i
+                j
+              
+            
+            +
+            μ
+            
+              (
+              
+                
+                  
+                    
+                      ∂
+                      
+                        
+                          
+                            
+                              u
+                              ¯
+                            
+                          
+                        
+                        
+                          i
+                        
+                      
+                    
+                    
+                      ∂
+                      
+                        x
+                        
+                          j
+                        
+                      
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      ∂
+                      
+                        
+                          
+                            
+                              u
+                              ¯
+                            
+                          
+                        
+                        
+                          j
+                        
+                      
+                    
+                    
+                      ∂
+                      
+                        x
+                        
+                          i
+                        
+                      
+                    
+                  
+                
+              
+              )
+            
+            −
+            ρ
+            
+              
+                
+                  
+                    u
+                    
+                      i
+                    
+                    
+                      ′
+                    
+                  
+                  
+                    u
+                    
+                      j
+                    
+                    
+                      ′
+                    
+                  
+                
+                ¯
+              
+            
+          
+          ]
+        
+        .
+      
+    
+    {\displaystyle \rho {\bar {u}}_{j}{\frac {\partial {\bar {u}}_{i}}{\partial x_{j}}}=\rho {\bar {f}}_{i}+{\frac {\partial }{\partial x_{j}}}\left[-{\bar {p}}\delta _{ij}+\mu \left({\frac {\partial {\bar {u}}_{i}}{\partial x_{j}}}+{\frac {\partial {\bar {u}}_{j}}{\partial x_{i}}}\right)-\rho {\overline {u_{i}^{\prime }u_{j}^{\prime }}}\right].}
+  The left hand side of this equation represents the change in mean momentum of a fluid element owing to the unsteadiness in the mean flow and the convection by the mean flow. This change is balanced by the mean body force, the isotropic stress owing to the mean pressure field, the viscous stresses, and apparent stress 
+  
+    
+      
+        
+          (
+          
+            −
+            ρ
+            
+              
+                
+                  
+                    u
+                    
+                      i
+                    
+                    
+                      ′
+                    
+                  
+                  
+                    u
+                    
+                      j
+                    
+                    
+                      ′
+                    
+                  
+                
+                ¯
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(-\rho {\overline {u_{i}^{\prime }u_{j}^{\prime }}}\right)}
+   owing to the fluctuating velocity field, generally referred to as the Reynolds stress. This nonlinear Reynolds stress term requires additional modeling to close the RANS equation for solving, and has led to the creation of many different turbulence models.  The time-average operator 
+  
+    
+      
+        
+          
+            .
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {.}}}
+   is a Reynolds operator.
+
+",
+		"image": "Reynolds-averaged Navier–Stokes equations.jpg"
+	}
+]

@@ -1,0 +1,13 @@
+[
+	{
+		"id": "Renater",
+		"content": "RENATER (Réseau national de télécommunications pour la technologie, l'enseignement et la recherche) is the national research and education network in France.
+Deployed at the beginning of the 1990s, RENATER (National telecommunications network for Technology, Education and Research) provides a national and international connectivity
+via the pan-European GÉANT network, to more than 1,000 education and research sites in Metropolitan France and Overseas Departments and Territories. The RENATER network is an important and added value tool for research and education. It makes easier the collaborative work of the French researchers with their colleagues (data transfers and acquisitions, videoconferencing, spreadsheets etc.).
+RENATER is connected to international networks through two nx10 Gbit/s links to GÉANT and directly to the Internet through four nx10 Gbit/s links.
+RENATER supports IPv4 and IPv6.
+
+",
+		"image": "Renater.jpg"
+	}
+]

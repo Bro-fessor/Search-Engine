@@ -1,0 +1,35 @@
+[
+	{
+		"id": "MOS Technology RRIOT",
+		"content": "The 6530 ROM-RAM-I/O-Timer (RRIOT) was an integrated circuit made by MOS Technology, as well as second sources such as Rockwell. It was very similar to the MOS 6532 RIOT, but it incorporated 1 KB of ROM, in addition to the chip's other features. The static RAM, however, was reduced from 128 bytes to 64. Due to the very high degree of integration provided by this chip, it could be used with a microcontroller to comprise a full working computer. Since the incorporated ROM was mask programmed, there were several versions of the chip which was marked as 6530-001, 6530-002 and so on.. Not all the 6530 versions are marked as 6530, especially the later ones that were used in Commodore disk drives. The list of different 6530 chips includes the following:
+
+6530-001  Probably first version MOS TIM-1.
+6530-002  One of two RRIOTs used in the MOS KIM-1 computer.
+6530-003  Second of two RRIOTs used in the MOS KIM-1 computer.
+6530-004  Used in the MOS TIM-1 computer kit. Paired with a 6502 that you had to acquire yourself along with memory and other I/O chips. Very rare.
+6530-005  Unprogrammed 6530. According to OSI note this was used with an empty ROM (which would make it more or less into a 6532).
+6530-006  Allied Leisure pinball version 1 (IC6)
+6530-007  Allied Leisure pinball version 1 (IC3)
+6530-008  Allied Leisure pinball version 1 (IC5)
+6530-009  Allied Leisure pinball version 2 (IC5)
+6530-010  Allied Leisure pinball version 2 (IC6)
+6530-011  Allied Leisure pinball version 2 (IC3)
+6530-013  Used in the CBM 2040/3040/4040 disk drive DOS 1.0
+6530-014  Used in Gottlieb system 1 sound board
+6530-016  Used in Gottlieb system 80/80A/80B sound boards
+6530-024  Commodore CHESSmate (based upon Peter Jennings MicroChess)
+6530-028  Marked as 901483-01 and used in the CBM 2040/3040/4040 disk drive DOS 1.2
+6530-034  Marked as 901466-04 and used in the CBM 2040/3040/4040 disk drive DOS 2.2
+6530-036  Marked as 901483-02 and used in the CBM 8050 disk drive DOS 2.5
+6530-038  Marked as 901483-03 and used in the CBM 8050 disk drive DOS 2.5
+6530-039  Marked as 901483-04 and used in the CBM 8050 disk drive DOS 2.5
+6530-040  Marked as 901884-01 and used in the CBM 8050/8250 disk drive DOS 2.7
+6530-241  MIOT in pinball machines
+6530-243  MIOT in pinball machines
+6530-044  Marked as 901885-01 and used in the CBM 8050/8250 disk drive DOS 2.7
+6530-047  Marked as 901885-04 and used in the CBM 8050/8250 disk drive DOS 2.7
+6530-048  Marked as 901469-01 and used in the CBM 8050/8250 disk drive DOS 2.7
+6530-050  Marked as 251256-02 and used in the CBM 8250LP disk drive DOS 2.7The form factor was a JEDEC-standard 40-pin ceramic or plastic DIP. Early chips were offered in white ceramic, while later were in purple ceramic or plastic. All chips seems to have been manufactured by MOS technology or Rockwell. A version of 6530-004 by Synertek exists.",
+		"image": "MOS Technology RRIOT.jpg"
+	}
+]

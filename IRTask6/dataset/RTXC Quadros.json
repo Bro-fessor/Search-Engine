@@ -1,0 +1,9 @@
+[
+	{
+		"id": "RTXC Quadros",
+		"content": "RTXC Quadros is a real time operating system (RTOS) written mainly in the C programming language. It is mainly intended for use in embedded systems.
+The RTXC RTOS was originally developed by AT Barrett and Associates in the 1970s. It is currently maintained by Quadros Systems, Inc., of Houston, Texas.
+RTXC Quadros comes with a tracing tool which give insight in the runtime dynamics and timing, RTXCview.",
+		"image": "RTXC Quadros.jpg"
+	}
+]

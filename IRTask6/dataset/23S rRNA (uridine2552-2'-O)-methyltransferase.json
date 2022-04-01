@@ -1,0 +1,17 @@
+[
+	{
+		"id": "23S rRNA (uridine2552-2'-O)-methyltransferase",
+		"content": "23S rRNA (uridine2552-2'-O)-methyltransferase (EC 2.1.1.166, Um(2552) 23S ribosomal RNA methyltransferase, heat shock protein RrmJ, RrmJ, FTSJ, Um2552 methyltransferase) is an enzyme with systematic name S-adenosyl-L-methionine:23S rRNA (uridine2552-2'-O-)-methyltransferase. This enzyme catalyses the following chemical reaction
+
+S-adenosyl-L-methionine + uridine2552 in 23S rRNA 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   S-adenosyl-L-homocysteine + 2'-O-methyluridine2552 in 23S rRNAThe enzyme catalyses the 2'-O-methylation of the universally conserved U2552 in the A loop of 23S rRNA.",
+		"image": "23S rRNA (uridine2552-2'-O)-methyltransferase.jpg"
+	}
+]

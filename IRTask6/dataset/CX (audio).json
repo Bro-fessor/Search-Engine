@@ -1,0 +1,7 @@
+[
+	{
+		"id": "CX (audio)",
+		"content": "CX is a noise reduction system for recorded analog audio. It was developed by CBS Laboratories (a division of CBS) in the late 1970s as a competitor to other noise reduction (NR) systems such as Dolby and dbx, and was officially introduced in 1981. The name CX was derived from \"Compatible eXpansion\", a feature of the technique. The CX integrated circuit U2141B was developed by AEG-Telefunken, Germany, in 1982, by Ernst F. Schröder, Dietrich Höppner and Kurt Hintzmann, the same team who also designed the High Com noise reduction system, a broadband compander with up to 20 dB of noise reduction. Hitachi also offered dedicated CX chips named HA12043 and HA12044 in 1983. Telefunken also used, in their RS 120 CX a dual trans-conductance amplifier 13700D made by JRC (today NRJ), coupled with a pair of quad J-FET OpAmp chips TL084.",
+		"image": "CX (audio).jpg"
+	}
+]

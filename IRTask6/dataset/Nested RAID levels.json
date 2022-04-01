@@ -1,0 +1,7 @@
+[
+	{
+		"id": "Nested RAID levels",
+		"content": "Nested RAID levels, also known as hybrid RAID, combine two or more of the standard RAID levels (where \"RAID\" stands for \"redundant array of independent disks\") to gain performance, additional redundancy or both, as a result of combining properties of different standard RAID layouts.Nested RAID levels are usually numbered using a series of numbers, where the most commonly used levels use two numbers.  The first number in the numeric designation denotes the lowest RAID level in the \"stack\", while the rightmost one denotes the highest layered RAID level; for example, RAID 50 layers the data striping of RAID 0 on top of the distributed parity of RAID 5.  Nested RAID levels include RAID 01, RAID 10, RAID 100, RAID 50 and RAID 60, which all combine data striping with other RAID techniques; as a result of the layering scheme, RAID 01 and RAID 10 represent significantly different nested RAID levels.",
+		"image": "Nested RAID levels.jpg"
+	}
+]

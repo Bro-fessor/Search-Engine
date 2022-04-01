@@ -1,0 +1,12 @@
+[
+	{
+		"id": "X86",
+		"content": "x86 is a family of instruction set architectures initially developed by Intel based on the Intel 8086 microprocessor and its 8088 variant. The 8086 was introduced in 1978 as a fully 16-bit extension of Intel's 8-bit 8080 microprocessor, with memory segmentation as a solution for addressing more memory than can be covered by a plain 16-bit address. The term \"x86\" came into being because the names of several successors to Intel's 8086 processor end in \"86\", including the 80186, 80286, 80386 and 80486 processors.
+Many additions and extensions have been added to the x86 instruction set over the years, almost consistently with full backward compatibility. The architecture has been implemented in processors from Intel, Cyrix, AMD, VIA Technologies and many other companies; there are also open implementations, such as the Zet SoC platform (currently inactive). Nevertheless, of those, only Intel, AMD, VIA Technologies, and DM&P Electronics hold x86 architectural licenses, and from these, only the first two are actively producing modern 64-bit designs.
+The term is not synonymous with IBM PC compatibility, as this implies a multitude of other computer hardware; embedded systems, and general-purpose computers, used x86 chips before the PC-compatible market started, some of them before the IBM PC (1981) debut.
+As of 2020, most personal computers and laptops sold are based on the x86 architecture, while mobile categories such as smartphones or tablets are dominated by ARM; at the high end, x86 continues to dominate compute-intensive workstation and cloud computing segments.
+
+",
+		"image": "X86.jpg"
+	}
+]

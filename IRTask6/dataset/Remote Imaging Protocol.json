@@ -1,0 +1,13 @@
+[
+	{
+		"id": "Remote Imaging Protocol",
+		"content": "The Remote Imaging Protocol and its associated  Remote Imaging Protocol Script language, RIPscrip, is a graphics language that provides a system for sending vector graphics over low-bandwidth links, notably modems. It was originally created by Jeff Reeder, Jim Bergman, and Mark Hayton of TeleGrafix Communications in Huntington Beach, California to enhance bulletin board systems and other applications.
+RIPscrip was introduced in 1992 and consisted of ASCII-text descriptions of vector-drawn graphics and images, along with facilities to create menus and clickable buttons. These were sent from the BBS instead of the more common ANSI color-coded text-mode screens, and were interpreted on the user's end by a RIP-enabled terminal program such as TeleGrafix's own RIPTerm. Lines of text appeared in one display, graphics in another. RIPscrip could not be used as the basis for a complete GUI, as it included no text editing system.
+RIPscript 1.5x was a text based wrapper around the Borland Graphics Interface (BGI). Drawing primitives all relied on the BGI, fonts were limited to those provided by the BGI (*.CHR).  RIPscrip icon (.ICN) file format was that of the BGI getImage() and putImage() functions. The choice to include the BGI flood fill function was considered by many to be a mistake, as third-party implementations of the RIPscip protocol often failed to implement Bezier curves the same way Telegrafix had, thus leading to the flood fill leaking out of the intended object and filling the entire screen. Telegrafix never published their Bezier algorithm or a complete RIPscrip specification, thus ensuring developers wishing to implement RIPscrip were forced to purchase Telegrafix's expensive developers kit, containing pre-compiled BGI wrapper DLLs.
+Early versions of RIPscrip were tightly tied to the EGA 640×350 EGA standard and had a decidedly MS-DOS-like feel. Later versions provided resolution independence (after a fashion), expanded color palettes, and the ability to work over telnet for Internet access. By this time public access to the World Wide Web caused interest in bulletin board systems to rapidly decline, resulting in the eventual end of RIPscrip development and the company. Although RIPscrip 2.0 was released and 3.0 was planned, the most common version of RIPscrip in actual use was the 1.5x series.
+Vector image standards which are present on the World Wide Web today that draw some similarities include Adobe Flash and SVG.
+
+",
+		"image": "Remote Imaging Protocol.jpg"
+	}
+]

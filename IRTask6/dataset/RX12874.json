@@ -1,0 +1,10 @@
+[
+	{
+		"id": "RX12874",
+		"content": "RX12874, also known as the Passive Detection System (PDS) and by its nickname \"Winkle\", was a radar detector system used as part of the Royal Air Force's Linesman/Mediator radar network until the early 1980s. Winkle passed out of service along with the rest of the Linesman system as the IUKADGE network replaced it.
+Winkle was developed in the late 1950s to counter the carcinotron, a radar jammer so effective that it was initially believed it would render all long-range radars useless. Winkle used a network of stations to listen for carcinotron broadcasts, and combined the information from them to track the jammer aircraft as effectively as a radar could.
+The system was based on a series of High Speed Aerial (HSA) installations and AMES Type 85 (\"Blue Yeoman\") radars. Both were used as receivers; the Type 85 was used primarily to measure the time of arrival of the signal, while the HSA rapidly scanned horizontally to extract a bearing. Information from HSAs and the Type 85s was combined in a correlator that used triangulation and time-of-flight information to determine the location of the jammer-carrying aircraft.
+Once the location was determined, it was manually input into the interception controller's displays as if it were a normal radar return, distinguished only by its small circle icon instead of a single dot. Operators could decrease the Type 85 receiver sensitivity while the radar passed that location, so that the jamming did not obscure the display at nearby angles. Combined with identification friend or foe (IFF) signals, this allowed a fighter aircraft's signal to remain visible and interceptions could proceed as normal.",
+		"image": "RX12874.jpg"
+	}
+]

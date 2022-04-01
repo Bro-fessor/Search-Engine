@@ -1,0 +1,17 @@
+[
+	{
+		"id": "23S rRNA (adenine1618-N6)-methyltransferase",
+		"content": "23S rRNA (adenine1618-N6)-methyltransferase (EC 2.1.1.181, rRNA large subunit methyltransferase F, YbiN protein, rlmF (gene), m6A1618 methyltransferase) is an enzyme with systematic name S-adenosyl-L-methionine:23S rRNA (adenine1618-N6)-methyltransferase. This enzyme catalyses the following chemical reaction
+
+S-adenosyl-L-methionine + adenine1618 in 23S rRNA 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   S-adenosyl-L-homocysteine + N6-methyladenine1618 in 23S rRNAThe recombinant YbiN protein is able to methylate partially deproteinized 50 S ribosomal subunit.",
+		"image": "23S rRNA (adenine1618-N6)-methyltransferase.jpg"
+	}
+]

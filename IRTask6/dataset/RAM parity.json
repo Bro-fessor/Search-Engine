@@ -1,0 +1,10 @@
+[
+	{
+		"id": "RAM parity",
+		"content": "RAM parity checking is the storing of a redundant parity bit representing the parity (odd or even) of a small amount of computer data (typically one byte) stored in random access memory, and the subsequent comparison of the stored and the computed parity to detect whether a data error has occurred.
+The parity bit was originally stored in additional individual memory chips; with the introduction of plug-in DIMM, SIMM, etc. modules, they became available in non-parity and parity (with an extra bit per byte, storing 9 bits for every 8 bits of actual data) versions.
+
+",
+		"image": "RAM parity.jpg"
+	}
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"id": "RTP payload formats",
+		"content": "The Real-time Transport Protocol (RTP) specifies a general-purpose data format and network protocol for transmitting digital media streams on Internet Protocol (IP) networks. The details of media encoding, such as signal sampling rate, frame size and timing, are specified in an RTP payload format. The format parameters of the RTP payload are typically communicated between transmission endpoints with the Session Description Protocol (SDP), but other protocols, such as the Extensible Messaging and Presence Protocol (XMPP) may be used.
+
+",
+		"image": "RTP payload formats.jpg"
+	}
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"id": "TARGET (CAD software)",
+		"content": "TARGET 3001! is a CAD computer program for EDA and PCB design, developed by Ing.-Büro Friedrich in Germany. It supports the design of electronic schematics, PCBs, and device front panels. It runs under Windows and is available in English, German and French.
+A special branch of the program is the ASIC Designer, which allows design of integrated circuits.
+The free version (for non-commercial use) is limited to 250 connection pins or pads on two copper layers. The PCB manufacturer PCB-Pool and Conrad Electronic provide a free unlimited version, that generates only printed output or output for PCB-Pool and Conrad's PCB service. Commercial versions with all features are available.",
+		"image": "TARGET (CAD software).jpg"
+	}
+]
